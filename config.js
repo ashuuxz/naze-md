@@ -19,16 +19,16 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['917024324777']
+global.ownernomer = "917024324777"
+global.premium = ['917024324777']
 global.packname = 'Sticker By'
 global.author = 'Naze Dev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['#']
 global.sp = ''
 
 // Setting Mess
